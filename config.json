@@ -1,0 +1,6 @@
+{
+    "banner_url": "IMAGE_URL_LEAVE_BLANK_IF_YOU_DONT_WANT",
+    "webhook_url": "WEBHOOK_URL",
+    "webhook_name": "WEBHOOK_NAME",
+    "webhook_avatar": "AVATAR_URL"
+}

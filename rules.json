@@ -1,0 +1,38 @@
+[
+    {
+        "title": "1. Don't be Disrespectful, Inappropriate, Discriminatory.",
+        "desc": "We do not have any Tolerance, for being Disrespectful, Inappropriate, Discriminatory or Harass anyone!",
+        "punishment": "7 Days Timeout or with a Permanently ban from the Server!",
+        "color": "ff0000"
+    },
+    {
+        "title": "2. Don't be Racist, sexist and offensive to Religions.",
+        "desc": "We do not Tolerant, if you are Racist, sexist to people and offensive to Religions/Races.",
+        "punishment": "This will be punished with a permanently ban from the Server, with no rights of a unban.",
+        "color": "ff0000"
+    },
+    {
+        "title": "3. Don't post NSFW, Offensive content.",
+        "desc": "Any NSFW content or discussion, and any other offensive content that is detrimental to the community, is strictly prohibited.",
+        "punishment": "This will be punished with a 7 Days Timeout or with a Permanently ban from the Server!",
+        "color": "ff0000"
+    },
+    {
+        "title": "4. Don't do any Advertising or any form of it.",
+        "desc": "This means, no promotions of other Discord Servers, Youtube channels and any other  Social Media App/Website.",
+        "punishment": "This will be punished with a permanently ban from the Server!",
+        "color": "ff0000"
+    },
+    {
+        "title": "5. Don't Spam or Tag Staff members multiple times.",
+        "desc": "-This includes excessive amounts of messages, emojis, chain messages or copy pastas, mass pings/mentions, etc. \n\n-Create a ticket If you need any help!",
+        "punishment": "This will be punished with a 1 Hour Timeout, 1 Day Timeout or with a 7 Days Timeout!",
+        "color": "ff0000"
+    },
+    {
+        "title": "6. Use the Voice channels appropriate.",
+        "desc": "No switching between calls, to annoy people. \n- No Disrespect, Insulting, Harrassing!",
+        "punishment": "This will be punished with a 7 Days Timeout or a Permanently ban from the Server!",
+        "color": "ff0000"
+    }
+]
